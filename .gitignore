@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+notes.txt
+venv
+old_main.py
+.env
